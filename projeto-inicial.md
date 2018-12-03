@@ -33,7 +33,7 @@ Banco de Dados: ( ) Sim (x) Não
 
 # CHANGELOG
 
-### 1.3.0 _(07/11/2018 17:33)_
+## 1.3.0 _(07/11/2018 17:33)_
 
 - Compartilhamento de token em ambiente clusterizado
 - Link para o sistema antigo
