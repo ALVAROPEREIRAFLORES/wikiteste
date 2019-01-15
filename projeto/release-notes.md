@@ -31,6 +31,7 @@ Banco de Dados: ( ) Sim (x) Não
 
 ---
 
+### Teste
 # CHANGELOG
 
 ## 1.3.0 _(07/11/2018 17:33)_
